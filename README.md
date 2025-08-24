@@ -48,4 +48,4 @@ uci commit firewall
 ![CI](https://i.imgur.com/oUYMHWg.png)
 
 ### Finalmente, sube tus archivos VPN a través de LuCi y disfruta. Para más detalles, mira mi vídeo de YouTube de cómo hacerlo.
-[![Miniatura del video](https://i.imgur.com/gPrVThO.jpeg)](https://youtu.be/2IobpthgBl4?si=75FUB70hChAYXsl0)
+[![Miniatura del video](https://i.imgur.com/Oj0eq0Z.jpeg)](https://youtu.be/2IobpthgBl4?si=75FUB70hChAYXsl0)
